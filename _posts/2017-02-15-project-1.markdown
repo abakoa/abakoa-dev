@@ -1,0 +1,15 @@
+---
+title: Admistraciones-Administracioak
+subtitle: Gestiones-kudaketak
+layout: default
+modal-id: 1
+date: 2017-02-15
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: Feb 2015
+client: Comunidades
+category: Comunidades
+description: Administración de fincas eficiente.
+
+---
